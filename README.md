@@ -5,4 +5,4 @@ Here you will find my Configuration for WezTerm.
 
 
 ### Demo
-[Demo](images/demo.png)
+[Demo](https://raw.githubusercontent.com/crydotsnake/wezterm-configuration/main/wezterm/images/demo.png)
